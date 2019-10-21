@@ -61,7 +61,7 @@ Inicialmente se desarrollará el algoritmo Brute Force de manera serial, se toma
 
 ### Links a Youtube
 
-- Daniel: https://www.youtube.com/watch?v=oQua3n2vvGM 
+- Daniel: https://www.youtube.com/watch?v=K94MT8RbAN4 
 - Ricardo:
 - Alejandro:
 
