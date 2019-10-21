@@ -75,6 +75,6 @@ Inicialmente se desarrollará el algoritmo Brute Force de manera serial, se toma
 
 ## Conclusiones
 
-Se hizo evidente que no siempre paralelizar es la opción más rápida para resolver un problema, o simplemente el tiempo que se ahorra no es significativo en comparación con una solución serial.
+Se hizo evidente que no siempre paralelizar es la opción más rápida para resolver un problema, siempre y cuando no sea complejo el proceso (ejemplo 0000 o a0a0), al realizar un proceso que no exije tanto puede ser incluso mejor que de manera serial sea la forma más óptima en este caso, en el que en casos específicos simplemente el tiempo que se ahorra no es significativo en comparación con una solución serial. Cuando se realiza un proceso más complejo ya sea con más dificultad en los carácteres o más extenso (ejemplo, jaaa, h2mx), utilizar paralelismo siempre va a ser viable y más óptimo, y mientras de más núcleos se disponga, más eficiente va a ser la ejecución.
 
 Se comenzó a experimentar con la librería de Multiprocessing de Python para complementar el proyecto pero por falta de tiempo no fue posible.
