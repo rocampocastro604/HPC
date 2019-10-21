@@ -48,6 +48,13 @@ Inicialmente se desarrollará el algoritmo Brute Force de manera serial, se toma
   - ./main.exe
   
   En cuanto al análisis, cuando se hacen procesos muy pequeños es probable que el programa serial sea más eficiente ya que no tarda mucho el proceso en conseguir un resultado. Al ejecutar el programa en paralelo, trabaja de forma más eficiente debido a que divide los nucleos para trabajar y crackear la contraseña estipulada con una forma denominada fuerza bruta, teniendo dos o más nucleos buscando de forma simultánea la contraseña. Cuando el programa encuentra una secuencia de carácteres igual a la contraseña, el nucleo envía una señal que indica al programa a terminar la búsqueda y continuar con el programa demostrado cual es la contraseña.
+  
+
+### Links a Youtube
+
+- Daniel: 
+- Ricardo:
+- Alejandro:
 
 ### Referencias
 
