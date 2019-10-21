@@ -64,3 +64,8 @@ Inicialmente se desarrollará el algoritmo Brute Force de manera serial, se toma
 - Turmero, P. Metodología de desarrollo de programas paralelos. Retrieved 16 October 2019, from https://www.monografias.com/trabajos104/metodologia-desarrollo-programas-paralelos/metodologia-desarrollo-programas-paralelos.shtml 
 - Rodriguez Arroyo, J. (2012). Uso de técnicas de paralelización para el algoritmo de los filtros de Kalman [Ebook]. Retrieved from https://e-archivo.uc3m.es/bitstream/handle/10016/16335/TFG_Javier_Rodriguez_Arroyo.pdf?sequence=1&isAllowed=y 
 
+## Conclusiones
+
+Se hizo evidente que no siempre paralelizar es la opción más rápida para resolver un problema, o simplemente el tiempo que se ahorra no es significativo en comparación con una solución serial.
+
+Se comenzó a experimentar con la librería de Multiprocessing de Python para complementar el proyecto pero por falta de tiempo no fue posible.
