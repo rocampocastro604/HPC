@@ -52,7 +52,6 @@ int main()
     t0 = time(0);
 	Crack(pass);
     cout << "The pass is: " << temporal << endl;
-    //cout << "The pass is: " << cracked << endl;
     double seconds_since_start = difftime( time(0), t0);
     cout << "Time: " << seconds_since_start << " seconds"<< endl;
 }
