@@ -1,6 +1,6 @@
 # HPC
 # Parallel Brute Force Algorithm
-## Autores
+### Autores
 El equipo será conformado por:
 
 Daniel Enrique Hernández Stalhuth
