@@ -2,6 +2,7 @@
 # Parallel Brute Force Algorithm
 ## Autores
 El equipo será conformado por:
+
 Daniel Enrique Hernández Stalhuth
 - dehernands@eafit.edu.co  
 - hsdaniele95@gmail.com  
