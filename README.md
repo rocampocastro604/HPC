@@ -21,9 +21,9 @@ Para este proyecto el equipo de trabajo se concentrará en mejorar el rendimient
 ### Requerimientos-técnicos
 La programación en paralelo ofrece una herramienta computacional imprescindible para aprovechar el uso de múltiples procesadores y en la resolución de problemas que no pueden resolverse mediante técnicas clásicas. En el proceso de diseño de programas paralelos hay que tener en cuenta lo siguiente:
 
-Descomposición: involucra el proceso de dividir el problema y la solución en partes más pequeñas. Es decir, determinar qué parte del software realiza qué tarea.
-Comunicación: se debe determinar cómo se lleva a cabo la comunicación entre los distintos procesos o computadoras, cómo sabe un componente de software cuando otro terminó o falló, como se solicita un servicio a otro componente, que componente debe iniciar la ejecución, etc.
-Sincronización: se debe determinar el orden de ejecución de los componentes, si todos los componentes inician su ejecución simultáneamente, o alguno debe esperar mientras otros trabajan, etc.
+- Descomposición: involucra el proceso de dividir el problema y la solución en partes más pequeñas. Es decir, determinar qué parte del software realiza qué tarea.
+- Comunicación: se debe determinar cómo se lleva a cabo la comunicación entre los distintos procesos o computadoras, cómo sabe un componente de software cuando otro terminó o falló, como se solicita un servicio a otro componente, que componente debe iniciar la ejecución, etc.
+- Sincronización: se debe determinar el orden de ejecución de los componentes, si todos los componentes inician su ejecución simultáneamente, o alguno debe esperar mientras otros trabajan, etc.
 
 De lo anterior es posible identificar los siguientes obstáculos que surgen al programar en paralelo: 
 - Dividir el trabajo de forma eficiente y efectiva entre dos o más componentes del software
