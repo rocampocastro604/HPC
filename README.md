@@ -6,9 +6,11 @@ El equipo será conformado por:
 Daniel Enrique Hernández Stalhuth
 - dehernands@eafit.edu.co  
 - hsdaniele95@gmail.com  
+
 Ricardo Ocampo Castro
 - rocampo3@eafit.edu.co 
 - rocampocastro604@gmail.com  
+
 Alejandro Gil
 - ggilmay@eafit.edu.co 
 - lordbluebanana@gmail.com
@@ -40,6 +42,13 @@ Para todo lo mencionado, se deben tomar en cuento unos requerimientos mínimos p
 Inicialmente se desarrollará el algoritmo Brute Force de manera serial, se tomarán los tiempos de ejecución para luego pasar a desarrollar el mismo algoritmo de manera paralela,  haciendo uso de OpenMP con lo que posteriormente se pasará a comparar estos tiempos para ver en qué casos sí es justificado el uso de paralelismo y en casos no. Con ello pasaremos a describir algunas conclusiones del proyecto.
 
 ### Compilación, ejecución y análisis
+#### Serial 
+  Para el codigo en serial, la compilacion es:
+  - g++ -o main.exe BruteCrack.cpp
+  
+  Para ejecutarse, en el terminal se usa lo siguiente:
+  - ./main.exe
+  
 #### Paralelo
   Para el codigo en paralelo, la compilación en el terminal es la siguiente:
   - g++ -o main.exe BruteCrackParallel.cpp -fopenmp
